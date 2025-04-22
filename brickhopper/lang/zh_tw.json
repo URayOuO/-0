@@ -1,0 +1,5 @@
+{
+  "block.brickhopper.brick_hopper": "磚漏鬥",
+  "block.brickhopper.brick_hopper.desc.cannotAbsorbItemsFromWorld": "無法吸入上方的掉落物。",
+  "block.brickhopper.brick_hopper.desc.cannotAbsorbItemsFromInventories": "無法吸入上方物品欄中的物品。"
+}
