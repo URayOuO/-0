@@ -1,0 +1,6 @@
+{
+  "commands.bw.setweather.failed": "更好的天氣：無法將天氣設置為%s",
+  "commands.bw.setweather.success.clear": "更好的天氣：將天氣設置為晴朗。",
+  "commands.bw.setweather.success.blizzard": "更好的天氣：將天氣設置為暴雪。",
+  "commands.bw.setweather.success.acidrain": "更好的天氣：將天氣設置為酸雨。"
+}
