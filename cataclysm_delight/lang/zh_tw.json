@@ -1,0 +1,22 @@
+{
+  "effect.cataclysm_delight.endermapter": "終界甲蟲",
+  "effect.cataclysm_delight.hardening": "淬硬",
+  "effect.cataclysm_delight.hardening.description": "提升護甲值與擊退抗性",
+  "effect.cataclysm_delight.ignitedrevenant": "燃魂",
+  "effect.cataclysm_delight.netheritemonstrosity": "獄髓巨獸",
+  "effect.cataclysm_delight.voidarmor": "虛空護甲",
+  "effect.cataclysm_delight.voidarmor.description": "潛行時，免疫摔落傷害並獲得生命回復效果",
+  "item.cataclysm_delight.endermaptera_shell": "終界甲蟲外殼",
+  "item.cataclysm_delight.molten_bone": "熔骨",
+  "item.cataclysm_delight.moltenbone_hangover_soup": "熔骨解酒湯",
+  "item.cataclysm_delight.netherite_horn": "獄髓號角",
+  "item.cataclysm_delight.netherite_horn_herb_medicine": "獄髓號角草藥",
+  "item.cataclysm_delight.sliced_netherite_horn": "獄髓號角切片",
+  "item.cataclysm_delight.void_bread": "虛空面包",
+  "item.cataclysm_delight.void_candy": "虛空糖果",
+  "item.cataclysm_delight.void_core_piece2": "虛空核心碎塊",
+  "item.cataclysm_delight.void_core_powder": "虛空核心粉末",
+  "item.cataclysm_delight.void_essence": "虛空香精",
+  "item.cataclysm_delight.voidjuice": "虛空果汁",
+  "itemGroup.tabcataclysmdelight": "災變樂事"
+}
