@@ -2,8 +2,8 @@
   "Small Nether Dungeons are currently disabled by default. You can enable them in the mod's config.": "小型下界地牢默認關閉，你可以在模組的配置中手動開啟。",
   "betterdungeons.small_dungeon.banner.zombie": "污穢旗幟",
   "Foul Banner": "污穢旗幟",
-  "betterdungeons.small_dungeon.banner.skeleton": "覆仇旗幟",
-  "Vengeful Banner": "覆仇旗幟",
+  "betterdungeons.small_dungeon.banner.skeleton": "復仇旗幟",
+  "Vengeful Banner": "復仇旗幟",
   "betterdungeons.small_dungeon.banner.spider": "鬧鬼旗幟",
   "Haunted Banner": "鬧鬼旗幟",
   "Banner of Decay": "腐爛旗幟",
@@ -81,8 +81,8 @@
   "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.bannerMaxCount.@Tooltip[1]": "默認：2",
   "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.enabled": "允許小型下界地牢生成",
   "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.enabled.@Tooltip": "允許小型下界地牢生成",
-  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls": "由刷怪籠生成的雕靈骷髏可以掉落頭顱",
-  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls.@Tooltip": "允許由小型下界地牢的刷怪籠生成的雕靈骷髏概率掉落頭顱",
-  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods": "由刷怪籠生成的烈焰人可以掉落烈焰棒",
-  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods.@Tooltip": "允許由小型下界地牢的刷怪籠生成的烈焰人概率掉落烈焰棒"
+  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls": "由生怪磚生成的雕靈骷髏可以掉落頭顱",
+  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.witherSkeletonsDropWitherSkulls.@Tooltip": "允許由小型下界地牢的生怪磚生成的雕靈骷髏概率掉落頭顱",
+  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods": "由生怪磚生成的烈焰人可以掉落烈焰棒",
+  "text.autoconfig.betterdungeons-fabric-1_19.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods.@Tooltip": "允許由小型下界地牢的生怪磚生成的烈焰人概率掉落烈焰棒"
 }
