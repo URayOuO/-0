@@ -1,0 +1,14 @@
+{
+  "entity.broomsmod.wooden_broom": "木掃帚",
+  "item.broomsmod.wooden_broom": "木掃帚",
+  "enchantment.broomsmod.air_skills": "御空術",
+  "enchantment.broomsmod.air_skills.desc": "每級增加20%掃帚在空中的最大飛行速度，最多3級。",
+  "enchantment.broomsmod.land_skills": "行地術",
+  "enchantment.broomsmod.land_skills.desc": "每級增加20%掃帚在地面上的最大飛行速度，最多3級。",
+  "enchantment.broomsmod.hovering": "懸浮",
+  "enchantment.broomsmod.hovering.desc": "每級增加25%掃帚最長飛行時間，最多4級。",
+  "enchantment.broomsmod.seabreeze": "海風",
+  "enchantment.broomsmod.seabreeze.desc": "靠近水體時，掃帚會減速休整，從而能繼續飛行。",
+  "advancements.husbandry.ride_broom.title": "是時候拋棄那些船了",
+  "advancements.husbandry.ride_broom.description": "騎一把木掃帚⸺一種魔法載具。"
+}
