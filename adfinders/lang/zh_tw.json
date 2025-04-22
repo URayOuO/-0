@@ -1,0 +1,7 @@
+{
+  "item.adfinders.metal_finder": "金屬探測器",
+  "item.adfinders.mineral_finder": "礦物探測器",
+  "tooltip.adfinders.finder.scan_radius": "掃描半徑",
+  "tooltip.adfinders.finder.more_info": "%1$s按住%2$s %3$s%1$s 了解更多信息",
+  "tooltip.adfinders.finder.red_lights": "%2$s紅燈%1$s表示已發現%2$s大型礦脈"
+}
