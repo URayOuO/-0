@@ -1,0 +1,10 @@
+{
+  "block.cccbridge.source_block": "源方塊",
+  "block.cccbridge.target_block": "目標方塊",
+  "block.cccbridge.redrouter_block": "紅石路由方塊",
+  "block.cccbridge.scroller_block": "滾輪面板",
+  "cccbridge.display_source.source_block_display_source": "來自電腦的數據",
+  "cccbridge.general.unit.scroller": "Lua數",
+  "subtitles.cccbridge.cage_lock": "滾輪面板：鎖定",
+  "subtitles.cccbridge.cage_unlock": "滾輪面板：解鎖"
+}
