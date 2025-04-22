@@ -1,0 +1,7 @@
+{
+  "_comment": "Forge遊戲內配置",
+  "bettertitlescreen.config.category.listCustomText.title": "自定義文本",
+  "bettertitlescreen.config.category.general.title": "常規",
+  "bettertitlescreen.config.category.listCustomText.tooltip": "在這里插入你想要的文字(支持多行)。",
+  "bettertitlescreen.config.category.general.tooltip": "在標題屏幕上選擇要顯示的東西（如果有的話）"
+}
