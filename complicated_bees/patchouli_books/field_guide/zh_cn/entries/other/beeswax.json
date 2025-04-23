@@ -1,12 +1,12 @@
 {
-  "name": "蜂蜡",
+  "name": "蜂蠟",
   "icon": "complicated_bees:beeswax",
   "category": "complicated_bees:other",
   "advancement": "complicated_bees:recipes/building_blocks/wax_block",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "蜂蜡是蜜脾中最常见的组分。可以拿它涂到铜上以阻止其继续氧化，也可合成为多种装饰性方块。"
+      "text": "蜂蠟是蜜脾中最常見的組分。可以拿它塗到銅上以阻止其繼續氧化，也可合成為多種裝飾性方塊。"
     },
     {
       "type": "patchouli:crafting",
