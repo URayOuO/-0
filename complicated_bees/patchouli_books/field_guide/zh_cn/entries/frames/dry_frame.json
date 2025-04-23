@@ -1,12 +1,12 @@
 {
-  "name": "干燥框架",
+  "name": "幹燥框架",
   "icon": "complicated_bees:dry_frame",
   "category": "complicated_bees:frames",
   "advancement": "complicated_bees:recipes/misc/waxed_frame",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "沙子能吸走空气中多余的水分，但也有可能堵住蜜蜂的气门。"
+      "text": "沙子能吸走空氣中多余的水分，但也有可能堵住蜜蜂的氣門。"
     },
     {
       "type": "patchouli:crafting",
