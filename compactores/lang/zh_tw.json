@@ -1,0 +1,12 @@
+{
+  "block.compactores.compact_ore": "壓縮%s",
+  "itemGroup.compactores": "壓縮礦石",
+  "gui.compactores.configupdate.title": "壓縮礦石配置更新",
+  "gui.compactores.configupdate.message": "Compact Ores已成功更新到版本%s！\n\n但是，配置文件是在版本%s中創建的。這意味著配置文件可能由於mod中的更改而無法按預期的方式運行。如果您使用的是默認配置，建議您使用下面的自動更新功能。如果使用自定義配置，請手動更新（如有必要）。\n\n警告：如果使用自動更新功能，則對配置文件所做的所有更改都將丟失。\n\n你想更新你的Compact Ores配置嗎（需要重新啟動遊戲）？",
+  "gui.compactores.configupdate.option1": "更新並退出遊戲",
+  "gui.compactores.configupdate.option2": "保留舊版本",
+  "gui.compactores.configloadfailure.title": "壓縮礦石配置加載錯誤",
+  "gui.compactores.configloadfailure.message": "由於加載配置時發生以下錯誤，壓縮礦石無法正確加載：\n\n%s\n\n請使用壓縮礦石修正錯誤。您也可以將配置重置為默認配置以嘗試修覆錯誤，但這將刪除您對配置所做的所有更改。",
+  "gui.compactores.configloadfailure.option1": "退出遊戲",
+  "gui.compactores.configloadfailure.option2": "重置配置並退出遊戲"
+}
