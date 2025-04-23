@@ -1,0 +1,6 @@
+{
+  "item.coldsblockhunter.block_detector": "方塊探測器",
+  "item.coldsblockhunter.redstone_battery": "紅石電池",
+  "entity.coldsblockhunter.block_beacon": "方塊信標",
+  "effect.coldsblockhunter.static_effect": "靜電幹擾"
+}
