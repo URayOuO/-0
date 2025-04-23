@@ -1,12 +1,12 @@
 {
-  "name": "炎热框架",
+  "name": "炎熱框架",
   "icon": "complicated_bees:hot_frame",
   "category": "complicated_bees:frames",
   "advancement": "complicated_bees:recipes/misc/waxed_frame",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "岩浆能加热蜂房中的空气，但会缩短蜜蜂的寿命。"
+      "text": "巖漿能加熱蜂房中的空氣，但會縮短蜜蜂的壽命。"
     },
     {
       "type": "patchouli:crafting",
