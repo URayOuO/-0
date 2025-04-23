@@ -1,0 +1,8 @@
+{
+  "item.coldparcels.parcel_overworld": "主世界包裹",
+  "item.coldparcels.parcel_nether": "地獄包裹",
+  "item.coldparcels.parcel_end": "終界包裹",
+  "item.coldparcels.parcel_lost": "遺失的包裹",
+  "effect.coldparcels.delivered_effect": "已遞送",
+  "itemGroup.coldparcelsTab": "Cold的包裹"
+}
