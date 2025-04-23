@@ -28,7 +28,7 @@
     {
       "type": "patchouli:entity",
       "entity": "chococraft:chocobo{Color:1b}",
-      "name": "绿色陆行鸟",
+      "name": "綠色陸行鳥",
       "text": "info.chococraft.book.chocobo.green.description"
     },
     {
@@ -38,7 +38,7 @@
     {
       "type": "patchouli:entity",
       "entity": "chococraft:chocobo{Color:2b}",
-      "name": "蓝色陆行鸟",
+      "name": "藍色陸行鳥",
       "text": "info.chococraft.book.chocobo.blue.description"
     },
     {
@@ -48,7 +48,7 @@
     {
       "type": "patchouli:entity",
       "entity": "chococraft:chocobo{Color:3b}",
-      "name": "白色陆行鸟",
+      "name": "白色陸行鳥",
       "text": "info.chococraft.book.chocobo.white.description"
     },
     {
@@ -58,7 +58,7 @@
     {
       "type": "patchouli:entity",
       "entity": "chococraft:chocobo{Color:4b}",
-      "name": "黑色陆行鸟",
+      "name": "黑色陸行鳥",
       "text": "info.chococraft.book.chocobo.black.description"
     },
     {
@@ -69,7 +69,7 @@
       "type": "patchouli:entity",
       "anchor": "gold",
       "entity": "chococraft:chocobo{Color:5b}",
-      "name": "金色陆行鸟",
+      "name": "金色陸行鳥",
       "text": "info.chococraft.book.chocobo.gold.description"
     },
     {
@@ -79,7 +79,7 @@
     {
       "type": "patchouli:entity",
       "entity": "chococraft:chocobo{Color:8b}",
-      "name": "紫色陆行鸟",
+      "name": "紫色陸行鳥",
       "text": "info.chococraft.book.chocobo.purple.description"
     },
     {
@@ -89,7 +89,7 @@
     {
       "type": "patchouli:entity",
       "entity": "chococraft:chocobo{Color:9b}",
-      "name": "烈火陆行鸟",
+      "name": "烈火陸行鳥",
       "text": "info.chococraft.book.chocobo.flame.description"
     },
     {
@@ -100,7 +100,7 @@
       "type": "patchouli:entity",
       "anchor": "pink",
       "entity": "chococraft:chocobo{Color:6b}",
-      "name": "粉红色陆行鸟",
+      "name": "粉紅色陸行鳥",
       "text": "info.chococraft.book.chocobo.pink.description"
     },
     {
@@ -111,7 +111,7 @@
       "type": "patchouli:entity",
       "anchor": "red",
       "entity": "chococraft:chocobo{Color:7b}",
-      "name": "红色陆行鸟",
+      "name": "紅色陸行鳥",
       "text": "info.chococraft.book.chocobo.red.description"
     },
     {
