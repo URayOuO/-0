@@ -47,8 +47,8 @@
   "item.betteranimalsplus.bottled_dragonfly": "瓶裝蜻蜓",
   "item.betteranimalsplus.barracuda_bucket": "梭子魚桶",
   "item.betteranimalsplus.flying_fish_bucket": "飛魚桶",
-  "item.betteranimalsplus.calamari_raw": "生魷魚須",
-  "item.betteranimalsplus.calamari_cooked": "熟魷魚須",
+  "item.betteranimalsplus.calamari_raw": "生魷魚鬚",
+  "item.betteranimalsplus.calamari_cooked": "熟魷魚鬚",
   "item.betteranimalsplus.piranha_bucket": "水虎魚桶",
   "item.betteranimalsplus.horseshoe_crab_blood": "馬蹄蟹血",
   "block.betteranimalsplus.trillium": "延齡草",
@@ -65,7 +65,7 @@
   "entity.betteranimalsplus.brownbear": "棕熊",
   "entity.betteranimalsplus.blackbear": "黑熊",
   "entity.betteranimalsplus.deer": "鹿",
-  "entity.betteranimalsplus.lammergeier": "胡兀鷲",
+  "entity.betteranimalsplus.lammergeier": "胡禿鷲",
   "entity.betteranimalsplus.feralwolf": "野狼",
   "entity.betteranimalsplus.coyote": "郊狼",
   "entity.betteranimalsplus.tarantula": "狼蛛",
@@ -122,5 +122,5 @@
   "death.attack.betteranimalsplus.piranha": "%1$s 被水虎魚吃得精光",
   "misc.betteranimalsplus.eggorder": "%s 生怪蛋",
   "tooltip.betteranimalsplus.nectar": "有花蜜",
-  "tooltip.betteranimalsplus.cures_wither": "治愈雕零"
+  "tooltip.betteranimalsplus.cures_wither": "治愈凋零"
 }
