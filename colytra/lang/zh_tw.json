@@ -1,0 +1,11 @@
+{
+  "tooltip.colytra.broken": "損壞",
+  "gui.colytra.config.permissionMode": "權限模式",
+  "gui.colytra.config.permissionMode.tooltip": "設置權限列表為黑名單還是白名單",
+  "gui.colytra.config.permissionList": "權限列表",
+  "gui.colytra.config.permissionList.tooltip": "根據權限模式設置，將以下注冊名的物品列入黑名單/白名單",
+  "gui.colytra.config.colytraMode": "鞘翅胸甲模式",
+  "gui.colytra.config.colytraMode.tooltip": "設置鞘翅胸甲的屬性\n正常：鞘翅將與胸甲獨立存在，可分離\n統一：鞘翅將與胸甲融合，無法分離\n完美：鞘翅將與胸甲融合，且飛行不會消耗耐久",
+  "gui.colytra.config.energyUsage": "能量消耗",
+  "gui.colytra.config.energyUsage.tooltip": "當選擇“統一”模式且胸甲消耗能量時，使用鞘翅胸甲每秒消耗的能量值"
+}
