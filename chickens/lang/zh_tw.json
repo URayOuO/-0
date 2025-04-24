@@ -9,7 +9,7 @@
   "item.analyzer.tooltip1": "對雞使用來檢測它們的屬性。",
   "item.analyzer.tooltip2": " - “雞最討厭一星期中的哪一天？星期五！（因為 Fry-Day ⸺譯者注）”",
   "item.chickens.catcher": "捕雞器",
-  "item.colored_egg.tooltip": "扔掉它有幾率砸出小雞。",
+  "item.colored_egg.tooltip": "扔掉它有機率砸出小雞。",
   "entity.chickens.smart_chicken": "聰明雞",
   "entity.chickens.white_chicken": "白雞",
   "item.colored_egg.white.name": "白雞蛋",
