@@ -47,6 +47,6 @@
   "text.chatpatches.category.hud": "聊天HUD",
   "text.chatpatches.category.help": "幫助",
   "text.chatpatches.category.debug": "調試",
-  "text.chatpatches.copymessage.index": "已覆制消息%d：“%s”",
+  "text.chatpatches.copymessage.index": "已複製消息%d：“%s”",
   "text.chatpatches.copymessage.index.missing": "消息%d不存在"
 }
