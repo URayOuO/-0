@@ -30,7 +30,7 @@
   "text.chatpatches.desc.boundary": "是否在離開世界/服務器再加入另一世界/服務器後在聊天欄內顯示分隔線？",
   "text.chatpatches.desc.boundaryFormat": "創建分隔線的參照字符串。可包括字符“&”開頭的格式化代碼，字符“\\n”表示換行符，占位符“$”代表世界名稱。",
   "text.chatpatches.desc.boundaryColor": "表示填充的顏色，否則在生成的分隔線中為白色。如果要將其與其他格式修飾符一起使用，請在修飾文本選項中使用字符“&r”。",
-  "text.chatpatches.saveChat": "啟用聊天日志",
+  "text.chatpatches.saveChat": "啟用聊天日誌",
   "text.chatpatches.shiftChat": "聊天界面偏移",
   "text.chatpatches.chatWidth": "重設聊天界面寬度",
   "text.chatpatches.maxMsgs": "最大聊天消息數",
