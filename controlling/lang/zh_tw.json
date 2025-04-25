@@ -1,0 +1,15 @@
+{
+  "options.search": "查找",
+  "options.showAll": "顯示全部",
+  "options.showConflicts": "顯示衝突按鍵",
+  "options.showNone": "顯示未綁定按鍵",
+  "options.availableKeys": "可用按鍵",
+  "options.sort": "排序",
+  "options.category": "類別",
+  "options.key": "按鍵",
+  "options.sortNone": "默認",
+  "options.sortAZ": "A->Z",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "顯示未使用按鍵",
+  "options.confirmReset": "確認？"
+}
