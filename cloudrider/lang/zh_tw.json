@@ -3,8 +3,8 @@
   "entity.cloudrider.lightning_bolt_projectile": "閃電雲",
   "entity.cloudrider.cloud_steed": "雲坐騎",
   "entity.cloudrider.electric_area_effect_cloud": "帶電區域影響雲",
-  "item.cloudrider.cloud_rider_spawn_egg": "雲騎士刷怪蛋",
-  "item.cloudrider.gray_cloud_rider_spawn_egg": "灰雲騎士刷怪蛋",
+  "item.cloudrider.cloud_rider_spawn_egg": "雲騎士生怪蛋",
+  "item.cloudrider.gray_cloud_rider_spawn_egg": "灰雲騎士生怪蛋",
   "item.cloudrider.white_cloud_steed": "雲坐騎",
   "item.cloudrider.gray_cloud_steed": "灰雲坐騎",
   "item.cloudrider.misty_sponge": "雲",
@@ -27,7 +27,7 @@
   "death.attack.vaporize": "%1$s蒸發了",
   "death.attack.vaporize.player": "%1$s在試圖逃離%2$s時蒸發了",
   "advancements.end.place_cloud_rider_in_end.title": "我在哪？",
-  "advancements.end.place_cloud_rider_in_end.description": "用海綿將一只雲騎士帶進末地",
+  "advancements.end.place_cloud_rider_in_end.description": "用海綿將一只雲騎士帶進終界",
   "advancements.end.cloud_rider_target_dragon.title": "終於棋逢對手！",
-  "advancements.end.cloud_rider_target_dragon.description": "成功激起雲騎士和末影龍的仇恨，讓雲騎士攻擊末影龍"
+  "advancements.end.cloud_rider_target_dragon.description": "成功激起雲騎士和終界龍的仇恨，讓雲騎士攻擊終界龍"
 }
