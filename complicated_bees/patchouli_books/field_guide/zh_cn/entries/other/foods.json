@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "蜂蜜及其相關產物可用來制作多種食物。"
+      "text": "蜂蜜及其相關產物可用來製作多種食物。"
     },
     {
       "type": "patchouli:crafting",
