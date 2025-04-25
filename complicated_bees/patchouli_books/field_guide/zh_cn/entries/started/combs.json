@@ -12,7 +12,7 @@
       "type": "patchouli:crafting",
       "recipe": "complicated_bees:centrifuge",
       "title": "強大的離心機",
-      "text": "$(o)和名稱相似的機器沒有聯系。"
+      "text": "$(o)和名稱相似的機器沒有關係。"
     },
     {
       "type": "patchouli:text",
