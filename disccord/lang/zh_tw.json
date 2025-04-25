@@ -1,0 +1,17 @@
+{
+  "disccord.executable.permission": "“%s”可執行文件無法打開，請確保使用chmod +x添加可執行權限",
+  "disccord.ffmpeg.missing": "找不到FFmpeg可執行文件，請檢查日志以獲取更多信息！",
+  "disccord.networking.open_disc_screen.failed": "無法打開唱片屏幕：%s",
+  "disccord.networking.play_record.failed": "無法播放聲音：%s",
+  "disccord.networking.set_record_url.failed": "無法設置聲音URL：%s",
+  "disccord.song.downloading": "正在下載音樂，請稍候⋯⋯",
+  "disccord.song.failed": "下載音樂失敗！",
+  "disccord.song.succeed": "下載完成！",
+  "disccord.song_url.invalid": "歌曲URL無效！",
+  "disccord.song_url.long": "歌曲URL過長！",
+  "disccord.song_url.websites": "歌曲URL必須是%sURL！",
+  "disccord.youtubedl.missing": "找不到YoutubeDL可執行文件，請檢查日志以獲取更多信息！",
+  "item.disccord.custom_record": "自定義唱片",
+  "item.disccord.custom_record.desc": "自定義歌曲",
+  "item.disccord.custom_record.tooltip": "當前URL：%s"
+}
