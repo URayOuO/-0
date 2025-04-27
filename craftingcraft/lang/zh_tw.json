@@ -1,0 +1,9 @@
+{
+  "item.craftingcraft.inventory_crafting": "物品欄工作台",
+  "item.craftingcraft.portable_crafting": "便攜工作台",
+  "container.craftingcraft.portable_crafting": "便攜合成",
+  "container.craftingcraft.inventory_crafting": "物品欄合成",
+  "key.categories.craftingcraft": "CraftingCraft",
+  "key.craftingcraft.portable_crafting": "打開便攜合成界面",
+  "key.craftingcraft.back_to_inventory": "返回物品欄"
+}
