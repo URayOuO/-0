@@ -3,7 +3,7 @@
   "tip.bettertags.shift": "按住%s以顯示標簽",
   "tip.bettertags.item_tags": "物品標簽",
   "tip.bettertags.block_tags": "方塊標簽",
-  "tip.bettertags.copied": "已將%s覆制到剪貼板",
+  "tip.bettertags.copied": "已將%s複製到剪貼板",
   "tip.bettertags.copied_no": "%s沒有NBT數據",
   "tip.bettertags.empty": "欄位為空",
   "tip.bettertags.more": "還有%s字符未顯示…",
