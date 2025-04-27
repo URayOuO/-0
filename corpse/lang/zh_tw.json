@@ -1,0 +1,19 @@
+{
+  "entity.corpse.corpse": "遺骸",
+  "entity.corpse.corpse_of": "%s的遺骸",
+  "button.corpse.previous": "<<",
+  "button.corpse.next": ">>",
+  "gui.corpse.page": "%s/%s",
+  "gui.corpse.death_history.title": "死亡記錄",
+  "gui.corpse.death_history.name": "名稱",
+  "gui.corpse.death_history.date_format": "yyyy/MM/dd HH:mm:ss",
+  "gui.corpse.death_history.dimension": "維度",
+  "gui.corpse.death_history.location": "位置",
+  "button.corpse.show_items": "物品",
+  "key.corpse.death_history": "打開死亡記錄",
+  "message.corpse.no_death_history": "無死亡記錄",
+  "chat.corpse.teleport_death_location": "傳送到死亡位置 %s",
+  "tooltip.corpse.teleport": "傳送",
+  "tooltip.corpse.death_date": "在 %s 死去",
+  "tooltip.corpse.item_count": "包含 %s 件"
+}
