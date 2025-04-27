@@ -80,12 +80,12 @@
   "message.backpacked.player_opened": "一位玩家打開了你的背包",
   "block.backpacked.oak_backpack_shelf": "橡木背包架",
   "block.backpacked.spruce_backpack_shelf": "杉木背包架",
-  "block.backpacked.birch_backpack_shelf": "白樺木背包架",
+  "block.backpacked.birch_backpack_shelf": "樺木背包架",
   "block.backpacked.jungle_backpack_shelf": "叢林木背包架",
   "block.backpacked.acacia_backpack_shelf": "相思木背包架",
   "block.backpacked.dark_oak_backpack_shelf": "黑橡木背包架",
   "block.backpacked.mangrove_backpack_shelf": "紅樹林木背包架",
   "block.backpacked.cherry_backpack_shelf": "櫻花木背包架",
-  "block.backpacked.crimson_backpack_shelf": "緋紅蕈背包架",
-  "block.backpacked.warped_backpack_shelf": "扭曲蕈背包架"
+  "block.backpacked.crimson_backpack_shelf": "緋紅蕈木背包架",
+  "block.backpacked.warped_backpack_shelf": "扭曲蕈木背包架"
 }
