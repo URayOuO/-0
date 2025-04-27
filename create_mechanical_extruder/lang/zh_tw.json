@@ -1,0 +1,10 @@
+{
+  "block.create_mechanical_extruder.mechanical_extruder": "動力造石機",
+  "create.recipe.extruding": "造石配方",
+  "create_mechanical_extruder.ponder.extruder.header": "產物生成",
+  "create_mechanical_extruder.ponder.extruder.text_1": "造石機使用應力生成產物",
+  "create_mechanical_extruder.ponder.extruder.text_2": "產物取決於造石機兩側以及下方接觸的流體種類",
+  "create_mechanical_extruder.ponder.extruder.text_3": "當生成工作結束後，產物可以通過滑鼠右鍵獲取",
+  "create_mechanical_extruder.ponder.extruder.text_4": "產物也可以通過自動化手段取出",
+  "itemGroup.create_mechanical_extruder:main": "機械動力：造石機"
+}
