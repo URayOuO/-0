@@ -1,0 +1,9 @@
+{
+  "block.creategears.fully_encased_chain_drive": "全覆蓋鏈式傳動箱",
+  "block.creategears.gear": "齒輪",
+  "block.creategears.half_shaft_gear": "半桿齒輪",
+  "block.creategears.large_gear": "大齒輪",
+  "block.creategears.large_half_shaft_gear": "大半桿齒輪",
+  "block.creategears.simple_gearshift": "簡易反轉齒輪箱",
+  "itemGroup.creategears": "機械動力：齒輪附加"
+}
